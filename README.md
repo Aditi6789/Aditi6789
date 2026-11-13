@@ -1,7 +1,7 @@
 ### Hi, I'm Aditi Jain 👋
 7th Sem CSE | Sagar, Madhya Pradesh
 
-> Java • DSA • OOPs | 70+ Contributions | Daily Problem Solving
+> Java • DSA • OOPs | 119+ Contributions | Daily Problem Solving
 
 ---
 
