@@ -1,7 +1,7 @@
 ### Hi, I'm Aditi Jain 👋
 7th Sem CSE | Sagar, Madhya Pradesh
 
-> Java • DSA • OOPs | 119+ Contributions | Daily Problem Solving
+> Java • DSA • OOPs | 125+ Contributions | Daily Problem Solving
 
 ---
 
@@ -21,10 +21,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aditi6789&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditi6789&theme=tokyonight)
 
-### 🔗 Connect With Me
+### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-jain-ba57b7444)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AditiJainDev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditi6789)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AditiJainDev)
 
 ### 📈 Pinned Repositories
 - 👉 [Java-Programming-Practice](https://github.com/Aditi6789/Java-Programming-Practice) - Daily DSA in Java
