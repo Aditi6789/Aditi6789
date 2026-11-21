@@ -18,8 +18,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Aditi6789&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aditi6789&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api?username=Aditi6789&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=Aditi6789&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Aditi6789&theme=tokyonight)](https://streak-stats.demolab.com/?user=Aditi6789&theme=tokyonight)
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-jain-ba57b7444)
